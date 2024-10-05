@@ -53,7 +53,7 @@ This is a **Streamlit-based application** that allows users to interact with a s
    - Execute the query on the SQLite database.
    - Display the results directly in the application.
 
-# Database Schema
+# Sales Management Schema
 
 The database consists of the following tables:
 
